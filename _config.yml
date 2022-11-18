@@ -28,7 +28,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: "en" # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Europe/Paris # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -38,7 +38,7 @@ author:
   name      : Pierre Larmande
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am a reseacher in computational biology.
+  bio       : Dr. Pierre Larmande is researcher at IRD. Now located at DIADE Unit in Montpellier. He was formerly co-director of ICT Lab USTH (http://ictlab.usth.edu.vn) in Hanoi. His main research interests are Data integration, Semantic Web, plant-ontologies, semantic data linking, Knowledge management and Big Data for plant genomics. He obtained PhD in Informatics from the university of Montpellier in 2007 (about federated plant data integration approaches applied to agronomy) and recently obtained the habilitation to conduct research supervision (HDR) in 2020. He coordinated the Oryza Tag Line phenotypic rice mutant database and was involved in the OrygenesDB T-DNA rice database. Between 2013 and 2017 he led the data integration group at the Institute of Computational Biology (IBC). Dr. Larmande is the lead PI of the Agronomic Linked Data project (AgroLD), which is a RDF knowledge base that consists of data integrated from a variety of plant resources and ontologies. He is the co-PI of the AgroPortal project which aims at developing a reference ontology repository for the agronomic domain and the Gigwa project ( Genotype Investigator for Genome Wide Analyses ) is a web application developed to manage genomic and genotyping data from NGS analysis. He is a member of several workshops and conference program committees related to life sciences and informatics such as SWAT4LS and DILS. He was the chair of the Semantics for Biodiversity workshop S4BIODIV 2013 at the ESWC 2013. He was co-chair of the PhenoHarmonIS workshops (Semantics for Harmonization and Integration of Phenotypic and Agronomic Data) 2014, 2016, 2018 editions
   email     : pierre dot larmande at ird dot fr
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : "larmande" the last part of your profile url, e.g. https://twitter.com/user_name
